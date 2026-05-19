@@ -35,7 +35,7 @@ using namespace std;
 // Viento maximo original: 5    | Nuevo: rango -15 a +15
 const double GRAVEDAD     = 12.0;   // m/s^2 - fuerza de caida
 const double PI           = 3.14159265358979;
-const int    ANCHO_MAPA   = 70;     // columnas de la consola
+const int    ANCHO_MAPA   = 44;     // columnas de la consola
 const int    ALTO_MAPA    = 22;     // filas de la consola
 // CAMBIO MANUAL 3 - REGLAS: Sistema de puntos (mejor de 3 partidas)
 const int    PUNTOS_PARA_GANAR = 3; // Primero en llegar a 3 gana
