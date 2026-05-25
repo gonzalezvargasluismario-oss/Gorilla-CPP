@@ -1,0 +1,9 @@
+# Binarios y ejecutables
+*.exe
+*.o
+*.obj
+*.out
+# Directorios de configuración de VS Code y Compiladores
+.vscode/
+build/
+bin/
